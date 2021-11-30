@@ -72,6 +72,7 @@ flex-direction: column-reverse;
 justify-content: center;
 align-items: center;
 height: 200px;
+margin: 20px;
 }
  
 
@@ -149,7 +150,7 @@ padding: 4px;
 border-radius: 4px;
 margin: auto;
 background-color: #3882f6;
-border-style: solid;
+border-style: solid 5px;
 color: white;
 font-weight: 600;
 }
